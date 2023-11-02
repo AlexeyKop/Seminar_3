@@ -8,3 +8,4 @@ Add text by Web-browser
 
 Добавили текст в новой ветке sem_03
 
+Resolve the conflict

@@ -2,6 +2,6 @@
 
 Добавили какой-то текст
 
-Add text by Web-brouser
+Add text by Web-browser
 
 Добавим текст локально
